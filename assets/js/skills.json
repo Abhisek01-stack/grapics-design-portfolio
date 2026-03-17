@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Adobe Photoshop",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"
+    },
+    {
+        "name": "Adobe Illustrator",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator.png"
+    },
+    {
+        "name": "Adobe InDesign",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-indesign.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
+    }
+]
